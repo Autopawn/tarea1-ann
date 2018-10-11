@@ -1,5 +1,7 @@
 # Data
 roboBohr.csv
+# Error caches
+*.npy
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
